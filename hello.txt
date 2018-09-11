@@ -1,1 +1,2 @@
 Welcome to the Git Version Control System Course.
+This is the second line we added
